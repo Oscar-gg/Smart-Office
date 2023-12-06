@@ -1,3 +1,6 @@
 [submodule "WebApp"]
 	path = WebApp
 	url = https://github.com/Oscar-gg/smart_office
+[submodule "NodeMCUs"]
+	path = NodeMCUs
+	url = https://github.com/Oscar-gg/smart_office_nodemcu.git
